@@ -4,6 +4,6 @@ print(
     "Ahoj"
 )
 
-print("pridam dalsi radek")
+print("pridaafasfm dalsdsadsasi radek")
 
 print("dalsi soubor")
